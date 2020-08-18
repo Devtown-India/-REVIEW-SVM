@@ -8,3 +8,7 @@ Implemented basic Support Vector Machine Classifier from scratch.
 
 # Update 18.08.2020
 The whole notebook on Support Vector Machine in uploaded. 
+
+# References
+1. https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2
+2. Hands on Machine-Learning with Scikit-Learn, Tensorflow and Keras by O'Reilly 2nd Edition
